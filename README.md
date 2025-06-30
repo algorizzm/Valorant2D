@@ -55,10 +55,12 @@ __Troubleshooting:__
 
 ## License
 ----------
-__Code__\n
+__Code__
+
 Code is licensed by Algorizzm and is the sole creator of this project.
 
 
-__Intellectual Property__\n
+__Intellectual Property__
+
 Valorant 2D is purely a fun project made for the purpose of entertainment. All rights and IP are reserved to Riot Games.
 
