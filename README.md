@@ -5,7 +5,7 @@ Valorant 2D
 ## Overview
 -----------
 
-Valorant 2D is a top-down shooter 2D game engine inspired from Riot Games. It is primarily coded in Java utilizing object oriented programming (OOP) concepts. By cloning this code into your local repository, you can experience the fun and excitement of playing a version of Valorant in a 2D scale.
+Valorant 2D is a top-down shooter 2D game engine inspired from [Riot Games](https://www.riotgames.com/en). It is primarily coded in Java utilizing object oriented programming (OOP) concepts. By cloning this code into your local repository, you can experience the fun and excitement of playing a version of Valorant in a 2D scale.
 
 ---
 
