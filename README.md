@@ -15,7 +15,9 @@ __Current Features:__
 * Java GUI
 * Notch's Game Loop
 * Basic Rendering
-* Player Movement (Key Listener, Basic Collision)
+* Player Movement
+  * Key Listener
+  * Basic Collision
 * Custom Map Generation
 * Weapon Mechanics (Weapon Switching, Weapon Attributes, etc.)
 * Shooting Mechanics (Passive Recoil, Movement Recoil)
