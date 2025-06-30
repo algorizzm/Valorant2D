@@ -19,14 +19,24 @@ __Current Features:__
   * Key Listener
   * Basic Collision
 * Custom Map Generation
-* Weapon Mechanics (Weapon Switching, Weapon Attributes, etc.)
-* Shooting Mechanics (Passive Recoil, Movement Recoil)
-* Enemy AI (Basic Movement, Player-AI Collision, Damage Processing)
+* Weapon Mechanics
+  * Weapon Switching
+  * Weapon Attributes
+* Shooting Mechanics
+  * Passive Recoil
+  * Movement Recoil
+* Enemy AI
+  * Basic Movement
+  * Player-AI Collision
+  * Damage Processing
 
 
 __Expected Features:__
 * Sprites/Animations
-* Advanced Enemy AI (Enhanced Movement, Weapon Equipping, Player Tracker)
+* Advanced Enemy AI
+  * Enhanced Movement
+  * Weapon Equipping
+  * Player Tracker
 * Improved Map Generation
 * Valorant Inspired Mechanics
 * Multiplayer 
