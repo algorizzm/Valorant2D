@@ -7,7 +7,6 @@ Valorant 2D
 
 Valorant 2D is a top-down shooter 2D game engine inspired from [Riot Games](https://www.riotgames.com/en). It is primarily coded in Java utilizing object oriented programming (OOP) concepts. By cloning this code into your local repository, you can experience the fun and excitement of playing a version of Valorant in a 2D scale.
 
----
 
 ## Features
 -----------
@@ -22,7 +21,6 @@ __Current Features:__
 * Shooting Mechanics (Passive Recoil, Movement Recoil)
 * Enemy AI (Basic Movement, Player-AI Collision, Damage Processing)
 
----
 
 __Expected Features:__
 * Sprites/Animations
@@ -31,27 +29,22 @@ __Expected Features:__
 * Valorant Inspired Mechanics
 * Multiplayer 
 
----
 
 __Troubleshooting:__
 - Collision Bugs
 - Improved Aim Mechanics
 
----
 
 ## Demo
 -------
 
----
 
 ## License
 ----------
 __Code__
 Code is licensed by Algorizzm and is the sole creator of this project.
 
----
 
 __Intellectual Property__
 Valorant 2D is purely a fun project made for the purpose of entertainment. All rights and IP are reserved to Riot Games.
 
----
