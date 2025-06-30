@@ -39,7 +39,9 @@ __Expected Features:__
   * Player Tracker
 * Improved Map Generation
 * Valorant Inspired Mechanics
-* Multiplayer 
+  * Valorant Based Abilities
+  * Valorant Gameplay Concepts
+* Multiplayer and Server Hubs
 
 
 __Troubleshooting:__
